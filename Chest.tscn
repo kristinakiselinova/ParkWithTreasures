@@ -1,0 +1,25 @@
+[gd_scene load_steps=6 format=3 uid="uid://dwtwvr3yi0t44"]
+
+[ext_resource type="Script" path="res://chest.gd" id="1_syudi"]
+[ext_resource type="ArrayMesh" uid="uid://2udnmb33g50h" path="res://TreasureChest/treasure_chest.obj" id="2_7y5bt"]
+[ext_resource type="Texture2D" uid="uid://jjgt0m41jx1p" path="res://TreasureChest/Treasurechest_DIFF.png" id="3_6m4dl"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_fxfxd"]
+albedo_texture = ExtResource("3_6m4dl")
+normal_enabled = true
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_w176x"]
+
+[node name="Chest" type="Area3D"]
+script = ExtResource("1_syudi")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.04, 0, 0, 0, 0.04, 0, 0, 0, 0.04, 0, 0, 0)
+mesh = ExtResource("2_7y5bt")
+surface_material_override/0 = SubResource("StandardMaterial3D_fxfxd")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(3.8, 0, 0, 0, 3.8, 0, 0, 0, 3.8, 0, 0, 0)
+shape = SubResource("BoxShape3D_w176x")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

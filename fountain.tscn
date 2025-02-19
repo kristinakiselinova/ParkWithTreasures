@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://ce4ttl2u7esqq"]
+
+[ext_resource type="PackedScene" uid="uid://dvjp45b7v5i4x" path="res://Park_Lowpoly_FBX/fountain.fbx" id="1_405d4"]
+
+[node name="fountain" instance=ExtResource("1_405d4")]

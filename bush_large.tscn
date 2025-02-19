@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://c3hk63ndmn22"]
+
+[ext_resource type="PackedScene" uid="uid://d2bo15qyfy3f0" path="res://Tiny_Treats_Pretty_Park_1.0/Assets/fbx/bush_large.fbx" id="1_l6cnf"]
+
+[node name="bush_large" instance=ExtResource("1_l6cnf")]

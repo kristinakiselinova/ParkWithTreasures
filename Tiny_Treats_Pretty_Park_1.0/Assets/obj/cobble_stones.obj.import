@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwmgn3jlhec8m"
+path="res://.godot/imported/cobble_stones.obj-8c9e88b8e6471a76c0ebec95a336d137.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cobble_stones.obj-8c9e88b8e6471a76c0ebec95a336d137.mesh"]
+
+source_file="res://Tiny_Treats_Pretty_Park_1.0/Assets/obj/cobble_stones.obj"
+dest_files=["res://.godot/imported/cobble_stones.obj-8c9e88b8e6471a76c0ebec95a336d137.mesh", "res://.godot/imported/cobble_stones.obj-8c9e88b8e6471a76c0ebec95a336d137.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

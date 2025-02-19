@@ -1,0 +1,25 @@
+[gd_scene load_steps=6 format=3 uid="uid://dd7hupoikohwx"]
+
+[ext_resource type="Script" path="res://coin.gd" id="1_svup2"]
+[ext_resource type="ArrayMesh" uid="uid://dwl1qw4nu20n0" path="res://cc0_-_gold_coin_blank/GoldCoinBlank.obj" id="2_awip3"]
+[ext_resource type="Texture2D" uid="uid://ed5iedflunu1" path="res://cc0_-_gold_coin_blank/GoldCoinBlankAlbedo.png" id="3_356vt"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_e15vc"]
+albedo_texture = ExtResource("3_356vt")
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_ktw1o"]
+radius = 1.14897
+
+[node name="Coin" type="Area3D"]
+script = ExtResource("1_svup2")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.554182, -1.3934, -0.0363183, -5.90145e-09, -0.0390835, 1.49949, -1.39387, -0.553994, -0.0144396, 0, 1.2, 0)
+mesh = ExtResource("2_awip3")
+surface_material_override/0 = SubResource("StandardMaterial3D_e15vc")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.16792, 0)
+shape = SubResource("SphereShape3D_ktw1o")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

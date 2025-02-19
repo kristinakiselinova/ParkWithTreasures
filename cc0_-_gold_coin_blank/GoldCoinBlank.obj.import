@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwl1qw4nu20n0"
+path="res://.godot/imported/GoldCoinBlank.obj-260a22bd1505700bd3572a396bef8ef2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/GoldCoinBlank.obj-260a22bd1505700bd3572a396bef8ef2.mesh"]
+
+source_file="res://cc0_-_gold_coin_blank/GoldCoinBlank.obj"
+dest_files=["res://.godot/imported/GoldCoinBlank.obj-260a22bd1505700bd3572a396bef8ef2.mesh", "res://.godot/imported/GoldCoinBlank.obj-260a22bd1505700bd3572a396bef8ef2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

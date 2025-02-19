@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxgob6tlt1y0t"]
+
+[ext_resource type="PackedScene" uid="uid://cyb4eehbi4n57" path="res://Park_Lowpoly_FBX/nature/tree2.fbx" id="1_gryer"]
+
+[node name="tree2" instance=ExtResource("1_gryer")]

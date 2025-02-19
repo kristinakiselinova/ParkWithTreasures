@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cp3pq6tgsf30t"
+path="res://.godot/imported/tree_large.obj-3d10f2be13c05b3c43f80e2414de2762.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_large.obj-3d10f2be13c05b3c43f80e2414de2762.mesh"]
+
+source_file="res://Tiny_Treats_Pretty_Park_1.0/Assets/obj/tree_large.obj"
+dest_files=["res://.godot/imported/tree_large.obj-3d10f2be13c05b3c43f80e2414de2762.mesh", "res://.godot/imported/tree_large.obj-3d10f2be13c05b3c43f80e2414de2762.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

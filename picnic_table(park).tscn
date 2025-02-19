@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://x3q871vel0s0"]
+
+[ext_resource type="PackedScene" uid="uid://bo4wynwb6oam8" path="res://Park_Lowpoly_FBX/PicnicTable(park).fbx" id="1_eygf4"]
+
+[node name="PicnicTable(park)" instance=ExtResource("1_eygf4")]

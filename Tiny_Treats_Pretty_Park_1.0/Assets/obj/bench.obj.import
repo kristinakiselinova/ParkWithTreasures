@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dr576c5l8l8uj"
+path="res://.godot/imported/bench.obj-9e9b6e062a793ad428f5dcf09e314e71.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bench.obj-9e9b6e062a793ad428f5dcf09e314e71.mesh"]
+
+source_file="res://Tiny_Treats_Pretty_Park_1.0/Assets/obj/bench.obj"
+dest_files=["res://.godot/imported/bench.obj-9e9b6e062a793ad428f5dcf09e314e71.mesh", "res://.godot/imported/bench.obj-9e9b6e062a793ad428f5dcf09e314e71.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

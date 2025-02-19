@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drjkv0ld4ohti"
+path="res://.godot/imported/bush_large.obj-7850ca20d3b42898951d37117f74f00d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bush_large.obj-7850ca20d3b42898951d37117f74f00d.mesh"]
+
+source_file="res://Tiny_Treats_Pretty_Park_1.0/Assets/obj/bush_large.obj"
+dest_files=["res://.godot/imported/bush_large.obj-7850ca20d3b42898951d37117f74f00d.mesh", "res://.godot/imported/bush_large.obj-7850ca20d3b42898951d37117f74f00d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

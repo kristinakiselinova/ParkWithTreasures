@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ubuktkot8fee"
+path="res://.godot/imported/hailey.obj-689629cadc9bb0dd56baae14753abbfd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hailey.obj-689629cadc9bb0dd56baae14753abbfd.mesh"]
+
+source_file="res://haileyobj/hailey.obj"
+dest_files=["res://.godot/imported/hailey.obj-689629cadc9bb0dd56baae14753abbfd.mesh", "res://.godot/imported/hailey.obj-689629cadc9bb0dd56baae14753abbfd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

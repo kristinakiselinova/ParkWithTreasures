@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://ewk0ombd7o1j"]
+
+[ext_resource type="PackedScene" uid="uid://ds82j5vukkxc0" path="res://Park_Lowpoly_FBX/statue1.fbx" id="1_e8mhi"]
+
+[node name="statue1" instance=ExtResource("1_e8mhi")]

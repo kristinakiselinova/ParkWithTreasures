@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://beu0nrpacllql"]
+
+[ext_resource type="PackedScene" uid="uid://dt5fsgkxtq8bp" path="res://Tiny_Treats_Pretty_Park_1.0/Assets/fbx/flower_A.fbx" id="1_t6d65"]
+
+[node name="flower_A" instance=ExtResource("1_t6d65")]

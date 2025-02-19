@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bnq86vsgfqck8"]
+
+[ext_resource type="PackedScene" uid="uid://dr6dbaecsa36x" path="res://Tiny_Treats_Pretty_Park_1.0/Assets/fbx/cobble_stones_large.fbx" id="1_1aknn"]
+
+[node name="cobble_stones_large" instance=ExtResource("1_1aknn")]

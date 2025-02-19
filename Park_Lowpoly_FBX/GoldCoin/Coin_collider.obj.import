@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lpj1ftkumwqy"
+path="res://.godot/imported/Coin_collider.obj-7f9396f82899c08ef109ccd8dfa104a5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Coin_collider.obj-7f9396f82899c08ef109ccd8dfa104a5.mesh"]
+
+source_file="res://Park_Lowpoly_FBX/GoldCoin/Coin_collider.obj"
+dest_files=["res://.godot/imported/Coin_collider.obj-7f9396f82899c08ef109ccd8dfa104a5.mesh", "res://.godot/imported/Coin_collider.obj-7f9396f82899c08ef109ccd8dfa104a5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

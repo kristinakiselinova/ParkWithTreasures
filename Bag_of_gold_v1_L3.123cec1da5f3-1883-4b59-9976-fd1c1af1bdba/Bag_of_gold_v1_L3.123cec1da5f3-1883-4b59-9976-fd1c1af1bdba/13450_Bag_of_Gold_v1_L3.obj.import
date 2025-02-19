@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6mmrgwj6shkh"
+path="res://.godot/imported/13450_Bag_of_Gold_v1_L3.obj-51f2ecb92d5c05d96bd0ce47b8cd15d8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/13450_Bag_of_Gold_v1_L3.obj-51f2ecb92d5c05d96bd0ce47b8cd15d8.mesh"]
+
+source_file="res://Bag_of_gold_v1_L3.123cec1da5f3-1883-4b59-9976-fd1c1af1bdba/Bag_of_gold_v1_L3.123cec1da5f3-1883-4b59-9976-fd1c1af1bdba/13450_Bag_of_Gold_v1_L3.obj"
+dest_files=["res://.godot/imported/13450_Bag_of_Gold_v1_L3.obj-51f2ecb92d5c05d96bd0ce47b8cd15d8.mesh", "res://.godot/imported/13450_Bag_of_Gold_v1_L3.obj-51f2ecb92d5c05d96bd0ce47b8cd15d8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
